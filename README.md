@@ -52,7 +52,7 @@ flask run
 
 > Then, the development server will be started at http://127.0.0.1:5000/
 ## Get Request using the Http Client:
-![Get Request](https://cdn.jsdelivr.net/gh/anamiikajha/Jsonify-Flask-API/img/GetR_ApiClient.jpg)
+![Get Request](https://raw.githubusercontent.com/anamiikajha/Json-Flask-API/master/img/GetR_ApiClient.jpg)
 > You can use your preferable http client, for example Postman
 ## Post Request using the Http Client
 ![Post Request](https://raw.githubusercontent.com/anamiikajha/Json-Flask-API/master/img/PostR_ApiClient.jpg)
