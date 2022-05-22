@@ -83,8 +83,9 @@ The function returns the message we want to display in the user’s browser. The
 
 To learn more, checkout the [official guide](https://flask.palletsprojects.com/en/2.0.x/quickstart/).
 ---
-# License:                                                 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/Json-Flask-API/blob/master/LICENSE)                                                                                                                  ### Author:
+# License:                                                
+[![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/Json-Flask-API/blob/master/LICENSE)                                                                                                                
+### Author:
 [@AnamiikaJha](https://github.com/anamiikajha)                                                                      
 ### Language used in this repo:
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
