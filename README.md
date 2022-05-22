@@ -55,7 +55,7 @@ flask run
 ![Get Request](https://cdn.jsdelivr.net/gh/anamiikajha/Jsonify-Flask-API/img/GetR_ApiClient.jpg)
 > You can use your preferable http client, for example Postman
 ## Post Request using the Http Client
-![Post Request](https://cdn.jsdelivr.net/gh/anamiikajha/Simple-Flask-Api/img/PostR_ApiClient.jpg)
+![Post Request](https://cdn.jsdelivr.net/gh/anamiikajha/Jsonify-Flask-API/img/PostR_ApiClient.jpg)
 ### About Flask:
 Flask is a minimal Python framework that helps you create a web server. 
 
